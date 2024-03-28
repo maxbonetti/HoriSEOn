@@ -8,7 +8,7 @@ In this HoriSEOn repo I was tasked with reengineering the non-semantic HTML tags
 
 ## links - 
 https://maxbonetti.github.io/HoriSEOn/
-https://github.com/maxbonetti?tab=repositories
+https://github.com/maxbonetti/HoriSEOn
 
 ## technolgy -
 HTML 5
